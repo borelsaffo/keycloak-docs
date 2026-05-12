@@ -1,12 +1,12 @@
 Bonjour Borel,
 
-Je souhaite cadrer avec toi une démarche de capitalisation et de partage de connaissances autour de Keycloak, qui est aujourd'hui l'une des briques les plus critiques d’EasyPRO.
+Je souhaite cadrer avec toi une démarche de capitalisation et de partage de connaissances autour de Keycloak, qui est aujourd'hui l'une des briques les plus critiques d’Ea.
 Tu en es le référent depuis le début, et l'objectif de ce mail est de poser le cadre d'un travail commun : documenter, partager et structurer la connaissance autour de cette brique, afin que l'équipe Ops puisse s'en saisir pleinement et que le projet dispose d'une vision claire et durable du sujet.
 
 1. Contexte et raisons de la démarche
 
 Plusieurs éléments rendent ce cadrage nécessaire et urgent :
-•	Criticité métier : Keycloak conditionne directement la connexion des clients EasyPRO et notre conformité DSP2. Toute indisponibilité ou erreur de configuration a un impact immédiat sur la production et sur nos engagements réglementaires.
+•	Criticité métier : Keycloak conditionne directement la connexion des clients eas et notre conformité DSP2. Toute indisponibilité ou erreur de configuration a un impact immédiat sur la production et sur nos engagements réglementaires.
 •	Continuité de service : à date, l'équipe Ops n'est pas encore en mesure d'assurer pleinement le relais sur les activités courantes (exploitation, déploiement de plugins, configuration, incidents). C'est précisément ce que cette démarche doit nous permettre de construire ensemble.
 •	Mutualisation de la connaissance : nous sommes aujourd'hui en single point of knowledge sur un composant critique. Pour l'équipe comme du point de vue audit et sécurité, nous avons besoin d'élargir cette base de connaissances et de la rendre partagée.
 •	Gouvernance et traçabilité : nous avons besoin que l'historique, l'état actuel et les chantiers en cours soient documentés au même niveau que les autres briques de la plateforme.
@@ -122,7 +122,7 @@ J'estime ce plan à environ deux semaines de charge, et je propose de fixer le m
 
 Pour te permettre de t'y consacrer pleinement, je prends deux engagements de mon côté :
 
-•	Concentration exclusive sur Keycloak : sur cette période, je te dégage de toute autre sollicitation côté EasyPRO ; seul le périmètre décrit dans ce mail, et les sujets en cours sur Keycloak sont à traiter. Toute demande qui te parviendrait par ailleurs devra m'être remontée pour arbitrage, afin de préserver ton plan de charge.
+•	Concentration exclusive sur Keycloak : sur cette période, je te dégage de toute autre sollicitation côté eas ; seul le périmètre décrit dans ce mail, et les sujets en cours sur Keycloak sont à traiter. Toute demande qui te parviendrait par ailleurs devra m'être remontée pour arbitrage, afin de préserver ton plan de charge.
 •	Ordre de bataille : on démarre par les ateliers de transfert de connaissances avec l'équipe Ops. C'est le levier le plus rapide pour sécuriser la continuité de service, embarquer l'équipe, et alimenter le Wiki au fil des sessions. Dans ce contexte, j’ai planifié une première session à cet effet le 20 mai avec le reste de l’équipe. 
 
 Peux-tu, en retour de ce mail, 
